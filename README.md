@@ -53,11 +53,11 @@ var styles = StyleSheet.create({
 
 ## Properties:
 
-1) borderColor: To set the border color of Box
-2) imageURI: The path of Image that is used
-3) onPress: To set an event on Click
-4) label: To set the label for Checkbox
-5) labelStyle: Style of label text
+a) borderColor: To set the border color of Box
+b) imageURI: The path of Image that is used
+c) onPress: To set an event on Click
+d) label: To set the label for Checkbox
+e) labelStyle: Style of label text
 
 
 # react-native-checkbox
